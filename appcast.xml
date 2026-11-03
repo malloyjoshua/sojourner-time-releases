@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sojourner Time</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 03 Nov 2026 14:41:39 -0500</pubDate>
+            <sparkle:version>0.2.0</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.2.0.zip" length="3052024" type="application/octet-stream" sparkle:edSignature="VgnqHmY5i0OS1cnZsCS/p24pmdGsO7cm2HnIikclGbhkeFVoXZBUsBGVYMrtLofYtHz7d0f8u/07Jzm4sjamCg=="/>
+        </item>
+    </channel>
+</rss>
