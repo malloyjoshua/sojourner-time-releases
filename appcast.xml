@@ -3,6 +3,18 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 03 Nov 2026 14:43:17 -0500</pubDate>
+            <sparkle:version>0.2.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.2.1.zip" length="3052018" type="application/octet-stream" sparkle:edSignature="4Vj0b96ZGm83SlU3x7mH2htTeW2pMhK7L8zNe9jzf3AAG1PqMZeMh3rtVcFfdfjopDlNAe2GlqvAfo9hT52tDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/Sojourner%20Time0.2.1-0.2.0.delta" sparkle:deltaFrom="0.2.0" length="4598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tLIAAsRwK8pNCPUpZcubPmBcRBrSymixILNKCyjhFClWcH8FGVR8+tDrb0MK9I0kPGB0MqKZeRfNS9Cxtv70DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 03 Nov 2026 14:41:39 -0500</pubDate>
             <sparkle:version>0.2.0</sparkle:version>
