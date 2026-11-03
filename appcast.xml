@@ -3,6 +3,14 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Tue, 03 Nov 2026 16:40:35 -0500</pubDate>
+            <sparkle:version>0.3.2</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.2.zip" length="3418909" type="application/octet-stream" sparkle:edSignature="Mj6qYqCkPUacuvFlHr1JUxHRTShwe8/icjLMzW2cF0yr4jruEpF+vwX9Iuk75N/ASZ90FboVq25aSuR2HVYMCQ=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Tue, 03 Nov 2026 16:35:14 -0500</pubDate>
             <sparkle:version>0.3.1</sparkle:version>
