@@ -3,6 +3,14 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.3.8</title>
+            <pubDate>Mon, 09 Nov 2026 10:01:23 -0500</pubDate>
+            <sparkle:version>0.3.8</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.8.zip" length="3553103" type="application/octet-stream" sparkle:edSignature="4gylsJKFsZ4yRcHkemAd1y8d9nEPyCHCFWvo9WoqNkn7OooMFnCf4+S4Hl//4qWhENu2GbGOGZSc3zmGPd+UBQ=="/>
+        </item>
+        <item>
             <title>0.3.7</title>
             <pubDate>Fri, 06 Nov 2026 17:02:40 -0500</pubDate>
             <sparkle:version>0.3.7</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.6.zip" length="3536601" type="application/octet-stream" sparkle:edSignature="5wOKzRHFFoIFpEtn7kP3k8dVIoLcI9wa+E9aUXVghcohk2+sHVINwtbEg9p6jYXNtrMeey4WAWs6wQYzQjW1Dg=="/>
-        </item>
-        <item>
-            <title>0.3.5</title>
-            <pubDate>Wed, 04 Nov 2026 19:20:31 -0500</pubDate>
-            <sparkle:version>0.3.5</sparkle:version>
-            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.5.zip" length="3355609" type="application/octet-stream" sparkle:edSignature="9e2jZs3UGENV36b8wOeR9u8JdJQEptIi74AaYImeaESPsBwQ1Kwr0ueA/KeEYc/dQgrvBKgZj5DEGsNccIfrDw=="/>
         </item>
         <item>
             <title>0.3.0</title>
