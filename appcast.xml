@@ -3,6 +3,14 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.3.10</title>
+            <pubDate>Mon, 09 Nov 2026 17:18:02 -0500</pubDate>
+            <sparkle:version>0.3.10</sparkle:version>
+            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.10.zip" length="3565545" type="application/octet-stream" sparkle:edSignature="wDgkE3hUSe2MdvtjgXFP7venvhnHuDdkCwYGGtXPaoeaIRFtRCMz8Diz6Ixu3i0YKWpG++QB/5bGuiZJwCi3Dg=="/>
+        </item>
+        <item>
             <title>0.3.9</title>
             <pubDate>Mon, 09 Nov 2026 10:18:04 -0500</pubDate>
             <sparkle:version>0.3.9</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.8.zip" length="3553103" type="application/octet-stream" sparkle:edSignature="4gylsJKFsZ4yRcHkemAd1y8d9nEPyCHCFWvo9WoqNkn7OooMFnCf4+S4Hl//4qWhENu2GbGOGZSc3zmGPd+UBQ=="/>
-        </item>
-        <item>
-            <title>0.3.7</title>
-            <pubDate>Fri, 06 Nov 2026 17:02:40 -0500</pubDate>
-            <sparkle:version>0.3.7</sparkle:version>
-            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.7.zip" length="3541121" type="application/octet-stream" sparkle:edSignature="QY44f4HseQXowdsaGRfSJicP/0S1eQ6xGt0arxTWKgCUHNpINgn1ib2FlFAdKnAbcPZ/SMIY3SRP64WisEIbBg=="/>
         </item>
         <item>
             <title>0.3.0</title>
