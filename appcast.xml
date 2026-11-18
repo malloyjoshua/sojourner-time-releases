@@ -3,6 +3,16 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.3.11</title>
+            <pubDate>Wed, 18 Nov 2026 16:27:15 -0500</pubDate>
+            <sparkle:version>0.3.11</sparkle:version>
+            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Performance improvements</li></ul>
+]]></description>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.11.zip" length="3569862" type="application/octet-stream" sparkle:edSignature="lk40qFS+B4+Ax+vlylK9x9sE4hRMDW/gd3K0bwYRjIhROmy7aogmhtphLhYo87gfn7e1hCPjKhUQ5Ipb7ETjBw=="/>
+        </item>
+        <item>
             <title>0.3.10</title>
             <pubDate>Mon, 09 Nov 2026 17:18:02 -0500</pubDate>
             <sparkle:version>0.3.10</sparkle:version>
@@ -17,14 +27,6 @@
             <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.9.zip" length="3562537" type="application/octet-stream" sparkle:edSignature="1g96MFasGf4tr3fK334NDQHSrgzv9rV6JFylFixuNEAIBOeXaMGcjuGAvlDWC1mJEtYPgNV4aIJm718KOcYwAQ=="/>
-        </item>
-        <item>
-            <title>0.3.8</title>
-            <pubDate>Mon, 09 Nov 2026 10:01:23 -0500</pubDate>
-            <sparkle:version>0.3.8</sparkle:version>
-            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.8.zip" length="3553103" type="application/octet-stream" sparkle:edSignature="4gylsJKFsZ4yRcHkemAd1y8d9nEPyCHCFWvo9WoqNkn7OooMFnCf4+S4Hl//4qWhENu2GbGOGZSc3zmGPd+UBQ=="/>
         </item>
         <item>
             <title>0.3.0</title>
