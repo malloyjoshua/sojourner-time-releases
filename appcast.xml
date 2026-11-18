@@ -3,6 +3,16 @@
     <channel>
         <title>Sojourner Time</title>
         <item>
+            <title>0.3.12</title>
+            <pubDate>Wed, 18 Nov 2026 16:52:07 -0500</pubDate>
+            <sparkle:version>0.3.12</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Performance improvements</li></ul>
+]]></description>
+            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.12.zip" length="3570314" type="application/octet-stream" sparkle:edSignature="AfBIRYyerJ3m7RZ4bbZ9Vh91/UHK0/x7lRzRa77W0vGrbOGlSDAiOBukjt3I5AjmQwk+F425u0WmjbdVQp3lDA=="/>
+        </item>
+        <item>
             <title>0.3.11</title>
             <pubDate>Wed, 18 Nov 2026 16:27:15 -0500</pubDate>
             <sparkle:version>0.3.11</sparkle:version>
@@ -19,14 +29,6 @@
             <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.10.zip" length="3565545" type="application/octet-stream" sparkle:edSignature="wDgkE3hUSe2MdvtjgXFP7venvhnHuDdkCwYGGtXPaoeaIRFtRCMz8Diz6Ixu3i0YKWpG++QB/5bGuiZJwCi3Dg=="/>
-        </item>
-        <item>
-            <title>0.3.9</title>
-            <pubDate>Mon, 09 Nov 2026 10:18:04 -0500</pubDate>
-            <sparkle:version>0.3.9</sparkle:version>
-            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/malloyjoshua/sojourner-time-releases/releases/download/channel/SojournerTime-0.3.9.zip" length="3562537" type="application/octet-stream" sparkle:edSignature="1g96MFasGf4tr3fK334NDQHSrgzv9rV6JFylFixuNEAIBOeXaMGcjuGAvlDWC1mJEtYPgNV4aIJm718KOcYwAQ=="/>
         </item>
         <item>
             <title>0.3.0</title>
